@@ -1,8 +1,8 @@
 <h3>Hi,I'm Aswathi_Sivasubramanian 👋</h3>
 
 💫 About Me:
-
-![AlymewAlymewWinkGIF](https://user-images.githubusercontent.com/87479231/185782898-733c1c9e-590c-4b03-ae8c-4d5daa40a4da.gif)
+![NewGameAhagonUmikoProgrammingGIF](https://user-images.githubusercontent.com/87479231/185782980-0f8b03aa-9e1a-441d-9baa-a43f158264bd.gif)
+<br>
 Pronouns: She/Her<br>🔭 I’m currently preparing for my placements<br>🌱 I’m currently learning react<br>👯 I’m looking to collaborate with more friends for projects.<br>💬 Ask me about Coding or any tech-related stuff.<br>📫 How to reach me: Check social links below<br>⚡ Fun fact: I love singing and making funny jokes which isn't funny..lol😂.<br><br><br><br><br>
 
 ## 🌐 Socials:
