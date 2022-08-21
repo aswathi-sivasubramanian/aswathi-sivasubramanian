@@ -2,7 +2,8 @@
 
 💫 About Me:
 
-😄 Pronouns: She/Her<br>🔭 I’m currently preparing for my placements<br>🌱 I’m currently learning react<br>👯 I’m looking to collaborate with more friends for projects.<br>💬 Ask me about Coding or any tech-related stuff.<br>📫 How to reach me: Check social links below<br>⚡ Fun fact: I love singing and making funny jokes which isn't funny..lol😂.<br><br><br><br><br>
+![AlymewAlymewWinkGIF](https://user-images.githubusercontent.com/87479231/185782898-733c1c9e-590c-4b03-ae8c-4d5daa40a4da.gif)
+Pronouns: She/Her<br>🔭 I’m currently preparing for my placements<br>🌱 I’m currently learning react<br>👯 I’m looking to collaborate with more friends for projects.<br>💬 Ask me about Coding or any tech-related stuff.<br>📫 How to reach me: Check social links below<br>⚡ Fun fact: I love singing and making funny jokes which isn't funny..lol😂.<br><br><br><br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.linkedin.com/in/aswathi-sivasubramanian-b5216a201) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswathi-sivasubramanian-b5216a201)
