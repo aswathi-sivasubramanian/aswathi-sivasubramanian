@@ -1,12 +1,11 @@
-#Hi,I'm Aswathi_Sivasubramainian 👋
+<h3>Hi,I'm Aswathi_Sivasubramanian 👋</h3>
 
 💫 About Me:
 
 😄 Pronouns: She/Her<br>🔭 I’m currently preparing for my placements<br>🌱 I’m currently learning react<br>👯 I’m looking to collaborate with more friends for projects.<br>💬 Ask me about Coding or any tech-related stuff.<br>📫 How to reach me: Check social links below<br>⚡ Fun fact: I love singing and making funny jokes which isn't funny..lol😂.<br><br><br><br><br>
 
 ## 🌐 Socials:
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aswathi-sivasubramanian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aswathi_sivasubramanian_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswathi-sivasubramanian)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.linkedin.com/in/aswathi-sivasubramanian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswathi-sivasubramanian)
 
 # 💻 Tech Stack:
 
