@@ -1,6 +1,6 @@
-Hi,I'm Aswathi_Sivasubramainian 👋
+#Hi,I'm Aswathi_Sivasubramainian 👋
 
-# 💫 About Me:
+💫 About Me:
 
 😄 Pronouns: She/Her<br>🔭 I’m currently preparing for my placements<br>🌱 I’m currently learning react<br>👯 I’m looking to collaborate with more friends for projects.<br>💬 Ask me about Coding or any tech-related stuff.<br>📫 How to reach me: Check social links below<br>⚡ Fun fact: I love singing and making funny jokes which isn't funny..lol😂.<br><br><br><br><br>
 
