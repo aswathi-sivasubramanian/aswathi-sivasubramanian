@@ -5,7 +5,7 @@
 😄 Pronouns: She/Her<br>🔭 I’m currently preparing for my placements<br>🌱 I’m currently learning react<br>👯 I’m looking to collaborate with more friends for projects.<br>💬 Ask me about Coding or any tech-related stuff.<br>📫 How to reach me: Check social links below<br>⚡ Fun fact: I love singing and making funny jokes which isn't funny..lol😂.<br><br><br><br><br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.linkedin.com/in/aswathi-sivasubramanian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswathi-sivasubramanian)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.linkedin.com/in/aswathi-sivasubramanian-b5216a201) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswathi-sivasubramanian-b5216a201)
 
 # 💻 Tech Stack:
 
