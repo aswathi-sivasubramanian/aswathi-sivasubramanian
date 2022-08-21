@@ -21,6 +21,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev Meme
 
 <img src="https://in.images.search.yahoo.com/images/view;_ylt=AwrKC2vR6gFjcrwZxsq9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2Y2NDUyMWM5YjcwNDg3MTVlZTVlZDRlMjNlMmE5NTA3BGdwb3MDNTMEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dcoding%2Bimages%26type%3DE210IN826G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26nost%3D1%26tab%3Dorganic%26ri%3D53&w=1920&h=1200&imgurl=www.baltana.com%2Ffiles%2Fwallpapers-8%2FComputer-Coding-HD-Wallpaper-24750.jpg&rurl=https%3A%2F%2Fwww.baltana.com%2Fabstract%2Fcomputer-coding-hd-wallpaper-24750.html&size=1376.4KB&p=coding+images&oid=f64521c9b7048715ee5ed4e23e2a9507&fr2=piv-web&fr=mcafee&tt=Computer+Coding+HD+Wallpaper+24750+-+Baltana&b=36&ni=21&no=53&ts=&tab=organic&sigr=sWguWPi2qKSZ&sigb=1ymDAUk8Kcq.&sigi=vUC2jp57qEzt&sigt=rwtNDkE4Tu_f&.crumb=xXzKMsNxW97&fr=mcafee&fr2=piv-web&type=E210IN826G0" width="512px"/>
+ -->
