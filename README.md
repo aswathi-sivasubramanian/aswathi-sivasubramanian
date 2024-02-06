@@ -4,7 +4,7 @@
 ![NewGameAhagonUmikoProgrammingGIF](https://user-images.githubusercontent.com/87479231/185782980-0f8b03aa-9e1a-441d-9baa-a43f158264bd.gif)
 <br>
 <!-- <br>🌱 I’m currently learning react<br> -->
-Pronouns: She/Her<br>🔭 I’m currently preparing for my placements<br>👯 I’m looking to collaborate with more friends for projects.<br>💬 Ask me about Coding or any tech-related stuff.<br>📫 How to reach me: Check social links below<br>⚡ Fun fact: I love singing and making funny jokes which isn't funny..lol😂.<br><br><br><br><br>
+Pronouns: She/Her<br>🔭 I’m currently doing my intern at Openmynz <br>👯 I’m looking to collaborate with more friends for projects.<br>💬 Ask me about Coding or any tech-related stuff.<br>📫 How to reach me: Check social links below<br>⚡ Fun fact: I love singing and making funny jokes which isn't funny..lol😂.<br><br><br><br><br>
 
 ## 🌐 Socials:
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.linkedin.com/in/aswathi-sivasubramanian-b5216a201) -->
